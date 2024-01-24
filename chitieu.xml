@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<chitieus>
+    <chitieu>
+        <id>5</id>
+        <day>12</day>
+        <month>1</month>
+        <years>2000</years>
+        <noidung>chi</noidung>
+        <nguon>c</nguon>
+        <money>234242.0</money>
+    </chitieu>
+    <chitieu>
+        <id>3</id>
+        <day>19</day>
+        <month>1</month>
+        <years>2001</years>
+        <noidung>chi</noidung>
+        <nguon>a</nguon>
+        <money>13131.0</money>
+    </chitieu>
+    <chitieu>
+        <id>2</id>
+        <day>19</day>
+        <month>6</month>
+        <years>2001</years>
+        <noidung>chi</noidung>
+        <nguon>ăn cưới</nguon>
+        <money>1000.0</money>
+    </chitieu>
+    <chitieu>
+        <id>4</id>
+        <day>12</day>
+        <month>1</month>
+        <years>2012</years>
+        <noidung>thu</noidung>
+        <nguon>a</nguon>
+        <money>1231.0</money>
+    </chitieu>
+    <chitieu>
+        <id>4</id>
+        <day>12</day>
+        <month>4</month>
+        <years>2012</years>
+        <noidung>thu</noidung>
+        <nguon>di choi</nguon>
+        <money>10000.0</money>
+    </chitieu>
+    <chitieu>
+        <id>6</id>
+        <day>12</day>
+        <month>12</month>
+        <years>2000</years>
+        <noidung>thu</noidung>
+        <nguon>n</nguon>
+        <money>23424.0</money>
+    </chitieu>
+    <chitieu>
+        <id>7</id>
+        <day>19</day>
+        <month>1</month>
+        <years>2000</years>
+        <noidung>thu</noidung>
+        <nguon>n</nguon>
+        <money>12012.0</money>
+    </chitieu>
+</chitieus>
